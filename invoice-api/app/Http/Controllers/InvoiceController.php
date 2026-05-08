@@ -36,7 +36,7 @@ class InvoiceController extends Controller
             ->sum(fn($item) => $item['qty'] * $item['price']);
 
         $invoice = Invoice::create([
-            'user_id'        => auth()->id(),
+            'user_id'        => auth()->id(), 
             'invoice_number' => 'INV-' . strtoupper(uniqid()),
             'client_name'    => $request->client_name,
             'client_email'   => $request->client_email,
