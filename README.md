@@ -254,9 +254,8 @@ Tokens expire after **7 days**.
 
 **Ben Dev** — Full-stack PHP & Node.js Developer (5+ years)
 
-- Fiverr: [fiverr.com/your-username](https://fiverr.com/your-username)
-- GitHub: [github.com/your-username](https://github.com/your-username)
-
+- Fiverr: [https://www.fiverr.com/s/xX8BY51]
+- GitHub: [https://github.com/vasinch90?tab=repositories]
 ---
 
 ## 📄 License
