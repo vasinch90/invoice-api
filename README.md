@@ -240,14 +240,6 @@ Tokens expire after **7 days**.
 
 ---
 
-## 📬 Postman Collection
-
-Import the collection to test all endpoints quickly:
-
-> 📥 [Download Postman Collection](./postman/invoice-api.json)
-
----
-
 ## 🛣️ Roadmap
 
 - [ ] PDF export for invoices
